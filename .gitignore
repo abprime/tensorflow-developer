@@ -27,3 +27,7 @@ Temporary Items
 .apdisk
 
 *.pdf
+
+logs/
+course3-nlp/week3-sequence-models/data/
+*.json
